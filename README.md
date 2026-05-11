@@ -2,12 +2,10 @@ Team Roster - FastAPI project
 
 Make an api to add players to a roster with
 - jersey number
-- firstname
-- lastname
-- height
-- weight
+- name
+- position
 - age
-- experience (years)
+- status (active or not, default not)
 
 Make it so you can view the entire roster, or search for a player off jersey number
 
