@@ -1,7 +1,9 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
+from mangum import Mangum
 
 app = FastAPI()
+handler = Mangum(app)
 
 class Player(BaseModel):
     number: int
