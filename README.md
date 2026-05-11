@@ -7,8 +7,14 @@ Make an api to add players to a roster with
 - age
 - status (active or not, default not)
 
-Make it so you can view the entire roster, or search for a player off jersey number
+Make it so you can view the entire roster, or optionally filter on status (active/inactive)
+
+Can search for a player off jersey number
+
+Can delete a player off jersey number
+
+Can update player status
 
 make it so you can delete players
 
-do not use ai
+do not use generative ai
