@@ -1,6 +1,6 @@
 Team Roster - FastAPI project
 
-URL: https://7vvw34jiyyylnljljoieifjuai0bdnfk.lambda-url.us-east-2.on.aws/docs#/
+URL: https://7vvw34jiyyylnljljoieifjuai0bdnfk.lambda-url.us-east-2.on.aws/docs
 
 Make an api to add players to a roster with
 - jersey number
